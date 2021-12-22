@@ -1,15 +1,22 @@
 ---
 layout: default
 title: Home
+
+h1-class: "font-family-heading font-size-xl text-blue-cool-80"
+h1-text: "Heading 1"
+
+h2-class: "font-family-heading font-size-xl text-blue-cool-80"
+h2-text: "Heading 2"
+
+h3-class: "font-family-heading font-size-md text-grey-cool-50"
+h3-text: "Heading 3"
+
+button-class: "usa-button text-normal bg-secondary hover:bg-secondary-darker"
+button-text: "Send"
+
+input-class: "usa-input border-base-light border-width-2px radius-lg padding-3 font-family-body text-bold"
+input-text: "What's on your mind?"
 ---
-# USWDS Latest Template
+# Learning Lab Design Tokens
 
-This template is set up with USWDS core CSS and JS files from [CDNJS](https://cdnjs.com/libraries/uswds).
-
-- Last updated: April 29, 2021
-- Version: 2.11.1
-- More information: [How to use USWDS](https://designsystem.digital.gov/documentation/developers/)
-
-<div class="margin-y-6">
-<a href="https://github.com/Bixal/uswds-template" class="usa-button usa-button--big">View on GitHub</a>
-</div>
+Here's all the awesomeness you need to know for this project. View on [GitHub](https://github.com/pglevy/ll-design-token-demo).

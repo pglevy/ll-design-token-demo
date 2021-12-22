@@ -1,16 +1,35 @@
-body * {
-    font-family: "Public Sans Web", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
-  }
-  
-  body {
-    font-size: 1.125rem;
-  }
-  
-  p, li, .usa-intro {
-    line-height: 1.5;
-  }
-  
-  h2, h3, h4, h5, h6 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-  }
+.font-family-heading {
+  font-family: "Georgia", "Cambria", "Times New Roman", "Times", serif;
+}
+
+.font-family-body {
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.bg-secondary {
+  background-color: #b21d38;
+}
+
+.bg-secondary-darker {
+  background-color: #8b0a03;
+}
+
+.bg-usaid-red {
+  background-color: #BA0C2F;
+}
+
+.bg-red-cool-60v {
+  background-color: #b21d38;
+}
+
+.bg-red-cool-70v {
+  background-color: #822133;
+}
+
+.text-blue-cool-80 {
+  color: #14333d;
+}
+
+.text-grey-cool-50 {
+  color: #71767a;
+}
